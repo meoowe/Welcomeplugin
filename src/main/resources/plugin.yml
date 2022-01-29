@@ -1,0 +1,4 @@
+name: Welcomeplugin
+version: '${project.version}'
+main: welcomeplugin.welcomeplugin.Welcome
+api-version: 1.17
