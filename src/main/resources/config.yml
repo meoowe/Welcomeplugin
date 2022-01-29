@@ -1,1 +1,1 @@
-Server_name: 'the server'
+join-message: '&aWelcome to the server, {player}!' # {player} -> the name of the player who joined
